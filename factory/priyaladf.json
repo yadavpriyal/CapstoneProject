@@ -1,0 +1,9 @@
+{
+	"name": "priyaladf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d5202f1-d048-478b-a3d2-018d0e4e9c5d",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
